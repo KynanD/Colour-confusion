@@ -1,2 +1,2 @@
-# Colour-confusion
-you have to touch the blue rectangle with the orange rectangle and go crazy!!!!!!!!!!!!!!!!!!!!!!!!
+# p5.play-boilerplate
+Boiler plate for p5.play
